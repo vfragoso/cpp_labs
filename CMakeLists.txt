@@ -56,5 +56,8 @@ ADD_EXECUTABLE(array_example array_example.cc)
 # Vector example.
 ADD_EXECUTABLE(vector_example vector_example.cc)
 
-# Advanced examples.
-# ADD_EXECUTABLE(advanced_vector_example advanced_vector_example.cc)
+# Set example.
+ADD_EXECUTABLE(set_example set_example.cc)
+
+# Map example.
+ADD_EXECUTABLE(map_example map_example.cc)
