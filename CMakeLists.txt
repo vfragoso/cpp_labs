@@ -61,3 +61,9 @@ ADD_EXECUTABLE(set_example set_example.cc)
 
 # Map example.
 ADD_EXECUTABLE(map_example map_example.cc)
+
+# Unordered set example.
+ADD_EXECUTABLE(unordered_set_example unordered_set_example.cc)
+
+# Map example.
+ADD_EXECUTABLE(unordered_map_example unordered_map_example.cc)
