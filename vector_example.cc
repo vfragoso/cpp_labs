@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
 
   // 4. Creating a vector with a different type. Note that the type goes inside
   // the angle brackets (<, >). This is because the class vector is a template
-  // class; see advanced c++ examples for tempaltes. The idea is to reuse code
+  // class; see advanced c++ examples for templates. The idea is to reuse code
   // of the std::vector for any type. Otherwise, we would have to have a vector
   // for every possible type.
   std::vector<char> my_char_vector;
