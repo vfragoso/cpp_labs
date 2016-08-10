@@ -32,7 +32,7 @@
 // Please contact the author of this library if you have any questions.
 // Author: Victor Fragoso (victor.fragoso@mail.wvu.edu)
 
-// This binary illustrate the basic use of iterators in C++11.
+// This binary illustrates the basic use of iterators in C++11.
 
 #include <iostream>  // Header for printing to stdout.
 #include <string>

@@ -70,3 +70,6 @@ ADD_EXECUTABLE(unordered_map_example unordered_map_example.cc)
 
 # Iterators example.
 ADD_EXECUTABLE(iterators_example iterators_example.cc)
+
+# Templates example.
+ADD_EXECUTABLE(templates_example templates_example.cc)
