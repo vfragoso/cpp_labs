@@ -53,6 +53,9 @@ SET(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 # Variables example.
 ADD_EXECUTABLE(variables_example variables_example.cc)
 
+# Functions example.
+ADD_EXECUTABLE(functions_example functions_example.cc)
+
 # Array example.
 ADD_EXECUTABLE(array_example array_example.cc)
 
