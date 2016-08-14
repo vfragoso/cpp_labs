@@ -82,4 +82,8 @@ ADD_EXECUTABLE(iterators_example iterators_example.cc)
 ADD_EXECUTABLE(templates_example templates_example.cc)
 
 # Memory management in C++.
+# Pointers example.
 ADD_EXECUTABLE(pointers_example pointers_example.cc)
+
+# References example.
+ADD_EXECUTABLE(references_example references_example.cc)
