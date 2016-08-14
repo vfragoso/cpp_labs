@@ -56,6 +56,7 @@ ADD_EXECUTABLE(variables_example variables_example.cc)
 # Functions example.
 ADD_EXECUTABLE(functions_example functions_example.cc)
 
+# Data structures in C++.
 # Array example.
 ADD_EXECUTABLE(array_example array_example.cc)
 
@@ -79,3 +80,6 @@ ADD_EXECUTABLE(iterators_example iterators_example.cc)
 
 # Templates example.
 ADD_EXECUTABLE(templates_example templates_example.cc)
+
+# Memory management in C++.
+ADD_EXECUTABLE(pointers_example pointers_example.cc)
