@@ -87,3 +87,6 @@ ADD_EXECUTABLE(pointers_example pointers_example.cc)
 
 # References example.
 ADD_EXECUTABLE(references_example references_example.cc)
+
+# Allocating heap memory example.
+ADD_EXECUTABLE(heap_memory_example heap_memory_example.cc)
