@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   // computer causing issues.
   // To relese the memory we use the delete operator. We need to help the delete
   // operator by telling him that we are going to erase an array by using '[]'.
-  delete[] my_array;  // Releases the memory pointed by my_array.
+  delete [] my_array;  // Releases the memory pointed by my_array.
   // It is a good practice to nullify the pointer. This is because we erase
   // the record of the memory address we were using -- this is for security
   // issues that we won't discuss here.
